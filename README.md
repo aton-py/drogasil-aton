@@ -8,7 +8,7 @@ Aparentemente simples porém o desafio aborda vários conceitos básicos da cons
 
 ## Para rodar o projeto:
 
-Para rodar o projeto basta clonar o repositório, em seguida no diretório clonado adicionar dependências `yarn add` ou `npm install` e rodar:
+Para rodar o projeto basta clonar o repositório, em seguida no diretório clonado adicionar dependências `yarn` ou `npm install` e rodar:
  `yarn start`
 
 Para rodar o app em modo de desenvolvimento.\
