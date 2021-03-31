@@ -9,9 +9,10 @@ Aparentemente simples porém o desafio aborda vários conceitos básicos da cons
 ## Para rodar o projeto:
 
 Para rodar o projeto basta clonar o repositório, em seguida no diretório clonado adicionar dependências `yarn add` ou `npm install` e rodar:
-
-Desde já agradeço a oportunidade ;)
-### `yarn start`
+ `yarn start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+
+##Desde já agradeço a oportunidade ;)
